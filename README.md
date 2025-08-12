@@ -36,9 +36,10 @@ Ele demonstra um layout simples e responsivo usando **HTML, CSS e JavaScript**.
 
 /meu-portfolio
 │── index.html
-│── style.css
-│── script.js
 │── README.md
+│── script.js
+│── style.css
 │── preview.png
+
 
 
