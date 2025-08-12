@@ -1,11 +1,11 @@
-# 📌 Portfólio Fictício - João da Silva
+# 📌 Portfólio Fictício - Gabriel Henrique Rodrigues de Lima
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/usuario/meu-portfolio)
 ![GitHub last commit](https://img.shields.io/github/last-commit/usuario/meu-portfolio)
 ![Status](https://img.shields.io/badge/status-online-brightgreen)
 
 ## 📖 Sobre o Projeto
-Este é um site fictício de portfólio, criado para fins acadêmicos no curso de TI.  
+Este é um site fictício de portfólio, criado para fins acadêmicos no curso de ADS.  
 Ele demonstra um layout simples e responsivo usando **HTML, CSS e JavaScript**.
 
 ---
@@ -30,5 +30,6 @@ Ele demonstra um layout simples e responsivo usando **HTML, CSS e JavaScript**.
 - JavaScript
 
 ---
+
 
 ## 📂 Estrutura de Pastas
