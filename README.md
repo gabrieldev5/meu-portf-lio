@@ -20,7 +20,7 @@ Ele demonstra um layout simples e responsivo usando **HTML, CSS e JavaScript**.
 ---
 
 ## 🖼 Prévia do Site
-![Prévia do Site](assets/preview.png)
+![Prévia do Site](preview.png)
 
 ---
 
@@ -33,3 +33,4 @@ Ele demonstra um layout simples e responsivo usando **HTML, CSS e JavaScript**.
 
 
 ## 📂 Estrutura de Pastas
+
