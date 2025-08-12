@@ -1,4 +1,4 @@
-# 📌 Portfólio Fictício - Gabriel Henrique Rodrigues de Lima
+# 📌 #1 Portfólio  - Gabriel Henrique Rodrigues de Lima
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/usuario/meu-portfolio)
 ![GitHub last commit](https://img.shields.io/github/last-commit/usuario/meu-portfolio)
@@ -33,4 +33,5 @@ Ele demonstra um layout simples e responsivo usando **HTML, CSS e JavaScript**.
 
 
 ## 📂 Estrutura de Pastas
+
 
