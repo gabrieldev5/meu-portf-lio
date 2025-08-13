@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-online-brightgreen)
 
 ## 📖 Sobre o Projeto
-Este é um site fictício de portfólio, criado para fins acadêmicos no curso de ADS e praticar desenvolvimento front-end.  
+Este é um site fictício de portfólio, criado para fins acadêmicos no curso de ADS- Análise e Desenvolvimento de sistemas e praticar dev.front-end.  
 Ele demonstra um layout simples e responsivo usando **HTML, CSS e JavaScript**.
 
 ---
@@ -40,6 +40,7 @@ Ele demonstra um layout simples e responsivo usando **HTML, CSS e JavaScript**.
 │── script.js
 │── style.css
 │── preview.png
+
 
 
 
