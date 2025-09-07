@@ -31,6 +31,16 @@ Ele demonstra um layout simples e responsivo usando **HTML, CSS e JavaScript**.
 
 ---
 
+## 📚 O que aprendi
+- **HTML e Semântica**: estruturação correta das seções da página.  
+- **CSS Responsivo**: uso de media queries e boas práticas de estilização.  
+- **JavaScript**: manipulação básica do DOM e interatividade simples.  
+- **Organização de Projeto**: criação de um layout limpo e organizado para futura evolução.  
+
+---
+
+✉️ **Contato:** gabriel_bh2010@hotmail.com  
+
 
 ## 📂 Estrutura de Pastas
 
@@ -40,6 +50,7 @@ Ele demonstra um layout simples e responsivo usando **HTML, CSS e JavaScript**.
 │── script.js
 │── style.css
 │── preview.png
+
 
 
 
